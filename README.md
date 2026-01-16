@@ -6,6 +6,10 @@ The goal is to understand how borrower characteristics such as **credit grade, i
 
 The analysis is performed entirely using **SQL** on a dataset containing **over 1 million loan records**, simulating real-world credit risk analysis used by banks and FinTech companies.
 
+## 📊 Power BI Dashboard Preview
+
+![Dashboard Overview](assets/dashboard_overview.png)
+
 ---
 
 ## 🎯 Objectives
