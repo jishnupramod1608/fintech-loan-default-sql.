@@ -109,9 +109,10 @@ This project demonstrates:
 ---
 
 ## 📌 Future Enhancements
-- Create a Power BI dashboard for visualization  
-- Add indexing to optimize query performance  
-- Extend analysis to time-based default trends  
+- Implement predictive modeling techniques such as Logistic Regression or Random Forest to forecast the probability of loan default.
+- Enhance the dashboard with advanced analytics features like dynamic filters, drill-down capabilities, and key performance indicators (KPIs) for better decision-making.
+- Optimize database performance by applying indexing and query optimization techniques to handle large-scale financial datasets efficiently.
+- Incorporate time-series analysis to monitor default trends over months or years and identify seasonal risk patterns.
 
 ---
 
